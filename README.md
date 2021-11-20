@@ -50,7 +50,7 @@ Because of the very small difference in THS's test scores after removing it's ni
 
 ### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade<br/>
-- Math<br/>
+### Math<br/>
  - Old</br>
 ![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_old.PNG)<br/>
 
@@ -59,7 +59,7 @@ Math and reading scores by grade<br/>
 <br/>
 
 <br/>
-- Reading<br/>
+### Reading<br/>
  - Old</br>
 ![Reading Scores by Grade -  New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
