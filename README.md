@@ -8,34 +8,36 @@ An analysis of a local school district's data.
 ## School District Analysis Results: 
 
 ### How is the district summary affected?
-OLD<br/>
+Old<br/>
 ![Old District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_District_Summary.PNG)<br/>
 New<br/>
 ![New District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_District_Summary.PNG)<br/>
 
 ### How is the school summary affected?
-OLD<br/>
+Old<br/>
 ![Old School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_School_Summary.PNG)<br/>
-NEW<br/>
+New<br/>
 ![New School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_School_Summary.PNG)<br/>
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-OLD<br/>
+Old<br/>
 ![Thomas High School Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_Top_Schools.PNG)<br/>
-NEW<br/>
+New<br/>
 ![Thomas High School New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_Top_Schools.PNG)<br/>
 
 ### How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade<br/>
-MATH<br/>
--OLD</br>
+Math and reading scores by grade<br/>
+- MATH<br/>
+ - Old</br>
 ![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_old.PNG)<br/>
--NEW</br>
+ - New</br>
 ![Math Scores by Grade -  New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)<br/>
-READING<br/>
-OLD</br>
+<br/>
+
+- Reading<br/>
+ - Old</br>
 ![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)<br/>  
-NEW</br>
+ - New</br>
 ![Reading Scores by Grade -  New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)<br/>
 
 Scores by school spending<br/>
