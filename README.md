@@ -11,6 +11,7 @@ An analysis of a local school district's data.
 - Old
 <br/>![Old District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_District_Summary.PNG)
 <br/>
+
 - New
 <br/>![New District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_District_Summary.PNG)
 <br/>
@@ -50,7 +51,6 @@ Because of the very small difference in THS's test scores after removing it's ni
 ### Math<br/>
 - Old
 <br/>![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_old.PNG)
-<br/>
 
 - New
 <br/>![Math Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)
@@ -58,7 +58,6 @@ Because of the very small difference in THS's test scores after removing it's ni
 
 - Old
 <br/>![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
-<br/>
 
 - New
 <br/>![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
