@@ -60,7 +60,7 @@ Math and reading scores by grade<br/>
 
 ### Reading<br/>
  - Old
-</br>
+<br/>
 ![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
 
