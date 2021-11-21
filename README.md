@@ -43,7 +43,7 @@ The removed test grades did not move the needle on THS's overall performance. As
 - New
 <br/>![Thomas High School - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_Top_Schools.PNG)
 <br/>
-- Because of the very small difference in THS's test scores after removing it's ninth grade cohorts' results, Thomas High School's position within the district remains unchanged. You can see the miniscule score changes more clearly in the two images above as we have extended the test score values out to the millionths place.
+Because of the very small difference in THS's test scores after removing it's ninth grade cohorts' results, Thomas High School's position within the district remains unchanged. You can see the miniscule score changes more clearly in the two images above as we have extended the test score values out to the millionths place.
 <br/>
 
 ### 4. How does replacing the ninth-grade scores affect the following:
@@ -54,7 +54,7 @@ Math and reading scores by grade<br/>
 <br/>![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_old.PNG)
 <br/>
 - New
-<br/>![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)
+<br/>![Math Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)
 <br/>
 
 ### Reading<br/>
@@ -64,7 +64,7 @@ Math and reading scores by grade<br/>
 - New
 <br/>![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
 <br/>
-- The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
+The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
 
 ### Scores by school spending<br/>
 - Old/New
@@ -79,7 +79,7 @@ Math and reading scores by grade<br/>
 <br/>![Scores by school type](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_scores_type.PNG)
 <br/>
 
-- I have saved you the trouble of trying to determine the difference between two identical tables. All of the above images were exactly the same between the two analyses. There was no significant difference between the scores by
+I have saved you the trouble of trying to determine the difference between two identical tables. All of the above images were exactly the same between the two analyses. There was no significant difference between the scores by
 
 ## Summary of School District analysis
 
