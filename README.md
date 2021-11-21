@@ -2,7 +2,7 @@
 
 An analysis of a local school district's data.
 
-## Overview of School District Analysis: Explain the purpose of this analysis.
+## Overview of School District Analysis:
  The purpose of this analysis is to help Maria and her supervisor get a better understanding of the current state of the school district after removing all ninth grade math and reading test scores from Thomas High School.
 
 ## School District Analysis Results: 
@@ -20,7 +20,6 @@ After removing Thomas High School ninth grade test scores from the district the 
 <br/>
 - While average reading scores did not change, average math scores lowered by a tenth of a point. The percentage of students that passed reading and math lowered by .1 and .2 points, respectively and the Overall Passing Percentage lowered by .3 points. 
 - While we believe it was necessary to remove an entire grade's test scores from THS due to suspected academic dishonesty we don't find the updated results of the reanalyzed district to be significantly different.
-<br/>
 
 ### 2. How is the school summary affected?
 - Old
@@ -34,7 +33,6 @@ After removing Thomas High School ninth grade test scores from the district the 
 The removed test grades did not move the needle on THS's overall performance. As you can see from the two images above... 
 - When rounded to the tenths place, average reading and math scores did not change. 
 - When rounded to the integer, the average percentage of students that passed reading, math, and the overall passing percentage did not change.
-<br/>
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Old
