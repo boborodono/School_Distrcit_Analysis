@@ -40,6 +40,7 @@ The removed test grades did not move the needle on THS's overall performance. As
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Old
 <br/>![Thomas High School - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_Top_Schools.PNG)<br/>
+
 - New
 <br/>![Thomas High School - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_Top_Schools.PNG)
 <br/>
@@ -53,6 +54,7 @@ Math and reading scores by grade<br/>
 - Old
 <br/>![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_old.PNG)
 <br/>
+
 - New
 <br/>![Math Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)
 <br/>
@@ -61,6 +63,7 @@ Math and reading scores by grade<br/>
 - Old
 <br/>![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
+
 - New
 <br/>![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
 <br/>
