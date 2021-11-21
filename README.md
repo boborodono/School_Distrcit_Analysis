@@ -45,7 +45,7 @@ New
 <br/>
 ![Thomas High School New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_Top_Schools.PNG)<br/>
 <br/>
-Because of the very small difference in THS's test scores after removing it's ninth grade cohorts results, Thomas High School's position within the district remains unchanged. You can see the miniscule score changes more clearly in the two images above as we have extended the test score values out to the millionths place.
+Because of the very small difference in THS's test scores after removing it's ninth grade cohorts' results, Thomas High School's position within the district remains unchanged. You can see the miniscule score changes more clearly in the two images above as we have extended the test score values out to the millionths place.
 <br/>
 
 ### How does replacing the ninth-grade scores affect the following:
@@ -61,13 +61,13 @@ Math and reading scores by grade<br/>
 ### Reading
 <br/>
  - Old</br>
-![Reading Scores by Grade -  New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
+![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
  - New</br>
-![Reading Scores by Grade -  New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
+![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
 <br/>
-
-
+The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
+<br/>
 Scores by school spending<br/>
 ![Scores by school spending](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_spending_summary'.PNG)<br/>
 
@@ -77,6 +77,7 @@ Scores by school size<br/>
 Scores by school type<br/>
 ![Scores by school type](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_scores_type.PNG)<br/>
 
+- I have saved you the trouble of trying to determine the difference between two identical tables. All of the above images were exactly the same between the two analyses. There was no significant difference between the scores by
 ## Summary of School District analysis
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
