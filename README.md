@@ -11,7 +11,6 @@ An analysis of a local school district's data.
 - Old
 <br/>![Old District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_District_Summary.PNG)
 <br/>
-
 - New
 <br/>![New District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_District_Summary.PNG)
 <br/>
