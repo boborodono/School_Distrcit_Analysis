@@ -57,14 +57,12 @@ Math and reading scores by grade<br/>
 ![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)<br/>
 
 ### Reading<br/>
- - Old
+- Old
 <br/>
 ![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
-
- - New<br/>
+- New<br/>
 ![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
-
 <br/>
 - The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
 <br/>
