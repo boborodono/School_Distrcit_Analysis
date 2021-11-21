@@ -75,7 +75,7 @@ The above images show that the ninth graders' test scores were removed from the 
 <br/>![Scores by school type](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_scores_type.PNG)
 <br/>
 
-I have saved you the trouble of trying to determine the difference between two identical tables. All of the above images were exactly the same between the two analyses. There was no significant difference between the scores by
+I have saved you the trouble of trying to determine the difference between two identical tables. All of the above images were exactly the same between the two analyses. There was no significant difference between the scores by spending, size, and type after removing THS's ninth grade student's test scores.
 
 ## Summary of School District analysis
 
