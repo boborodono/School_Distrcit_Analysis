@@ -82,6 +82,6 @@ I have saved you the trouble of trying to determine the difference between two i
 Four changes in the updated school district analysis after removing ninth grade test scores from Thomas High School because of suspected academic honesty are:
 
 1. .1 point reduction in District's Average Math Scores.
-2. .2% reduction in percentage of students passing math in the District.
-3. .1% reduction in percentage of students passing reading in the District.
-4. .3% reduction in percentage of students passing overall in the District.
+2. .2% reduction of students passing math in the District.
+3. .1% reduction of students passing reading in the District.
+4. .3% reduction of students passing overall in the District.
