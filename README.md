@@ -38,10 +38,10 @@ The removed test grades did not move the needle on THS's overall performance. As
 <br/>
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Old
+- Old
 <br/>
 ![Thomas High School Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_Top_Schools.PNG)<br/>
-New
+- New
 <br/>
 ![Thomas High School New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_Top_Schools.PNG)<br/>
 <br/>
@@ -61,7 +61,7 @@ Math and reading scores by grade<br/>
 ### Reading<br/>
  - Old
 <br/>
-![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
+![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
 
  - New<br/>
@@ -71,15 +71,15 @@ Math and reading scores by grade<br/>
 - The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
 <br/>
 
-Scores by school spending<br/>
+### Scores by school spending<br/>
 ![Scores by school spending](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_spending_summary'.PNG)
 <br/>
 
-Scores by school size<br/>
+### Scores by school size<br/>
 ![Scores by school size](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_size_summary'.PNG)
 <br/>
 
-Scores by school type<br/>
+### Scores by school type<br/>
 ![Scores by school type](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_scores_type.PNG)
 <br/>
 
