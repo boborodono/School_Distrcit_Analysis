@@ -7,7 +7,7 @@ An analysis of a local school district's data.
 
 ## School District Analysis Results: 
 
-### How is the district summary affected?
+### 1. How is the district summary affected?
 Old
 <br/>
 ![Old District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_District_Summary.PNG)<br/>
@@ -23,7 +23,7 @@ While average reading scores did not change, average math scores lowered by a te
 While we believe it was necessary to remove an entire grade's test scores from THS due to suspected academic dishonesty we don't find the updated results of the reanalyzed district to be significantly different.
 <br/>
 
-### How is the school summary affected?
+### 2. How is the school summary affected?
 Old
 <br/>
 ![Old School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_School_Summary.PNG)<br/>
@@ -37,7 +37,7 @@ The removed test grades did not move the needle on THS's overall performance. As
 - When rounded to the integer, the average percentage of students that passed reading, math, and the overall passing percentage did not change.
 <br/>
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Old
 <br/>![Thomas High School - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_Top_Schools.PNG)<br/>
 - New
@@ -46,7 +46,7 @@ The removed test grades did not move the needle on THS's overall performance. As
 - Because of the very small difference in THS's test scores after removing it's ninth grade cohorts' results, Thomas High School's position within the district remains unchanged. You can see the miniscule score changes more clearly in the two images above as we have extended the test score values out to the millionths place.
 <br/>
 
-### How does replacing the ninth-grade scores affect the following:
+### 4. How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade<br/>
 
 ### Math<br/>
@@ -70,14 +70,17 @@ Math and reading scores by grade<br/>
 <br/>
 
 ### Scores by school spending<br/>
+- Old/New<br/>
 ![Scores by school spending](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_spending_summary'.PNG)
 <br/>
 
 ### Scores by school size<br/>
+- Old/New<br/>
 ![Scores by school size](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_size_summary'.PNG)
 <br/>
 
 ### Scores by school type<br/>
+- Old/New<br/>
 ![Scores by school type](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_scores_type.PNG)
 <br/>
 
