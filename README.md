@@ -8,10 +8,10 @@ An analysis of a local school district's data.
 ## School District Analysis Results: 
 
 ### 1. How is the district summary affected?
-Old
+- Old
 <br/>
 ![Old District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_District_Summary.PNG)<br/>
-New
+- New
 <br/>
 ![New District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_District_Summary.PNG)<br/>
 
@@ -24,10 +24,10 @@ While we believe it was necessary to remove an entire grade's test scores from T
 <br/>
 
 ### 2. How is the school summary affected?
-Old
+- Old
 <br/>
 ![Old School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_School_Summary.PNG)<br/>
-New
+- New
 <br/>
 ![New School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_School_Summary.PNG)<br/>
 
@@ -52,18 +52,16 @@ Math and reading scores by grade<br/>
 ### Math<br/>
  - Old<br/>
 ![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_old.PNG)<br/>
-
  - New<br/>
 ![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)<br/>
 
 ### Reading<br/>
-- Old
-<br/>
+- Old<br/>
 ![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
 - New<br/>
-![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
-<br/>
+![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)<br/>
+
 - The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
 <br/>
 
