@@ -27,10 +27,12 @@ While we believe it was necessary to remove an entire grade's test scores from T
 - Old<br/>
 ![Old School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_School_Summary.PNG)
 <br/>
-- New<br/>
-![New School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_School_Summary.PNG)
 
+- New
 <br/>
+![New School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_School_Summary.PNG)
+<br/>
+
 The removed test grades did not move the needle on THS's overall performance. As you can see from the two images above... 
 - When rounded to the tenths place, average reading and math scores did not change. 
 - When rounded to the integer, the average percentage of students that passed reading, math, and the overall passing percentage did not change.
@@ -58,7 +60,6 @@ Math and reading scores by grade<br/>
 - Old<br/>
 ![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
-
 - New<br/>
 ![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
 <br/>
