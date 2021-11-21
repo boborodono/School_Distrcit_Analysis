@@ -19,7 +19,6 @@ An analysis of a local school district's data.
 After removing Thomas High School ninth grade test scores from the district the end result did not change much. 
 <br/>
 - While average reading scores did not change, average math scores lowered by a tenth of a point. The percentage of students that passed reading and math lowered by .1 and .2 points, respectively and the Overall Passing Percentage lowered by .3 points. 
-<br/>
 - While we believe it was necessary to remove an entire grade's test scores from THS due to suspected academic dishonesty we don't find the updated results of the reanalyzed district to be significantly different.
 <br/>
 
@@ -54,16 +53,13 @@ Because of the very small difference in THS's test scores after removing it's ni
 - Old
 <br/>![Math Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_old.PNG)
 <br/>
-
 - New
 <br/>![Math Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)
 <br/>
-
 ### Reading<br/>
 - Old
 <br/>![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
-
 - New
 <br/>![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
 <br/>
