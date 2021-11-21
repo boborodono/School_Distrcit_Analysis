@@ -10,7 +10,6 @@ An analysis of a local school district's data.
 ### 1. How is the district summary affected?
 - Old
 <br/>![Old District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_District_Summary.PNG)
-<br/>
 
 - New
 <br/>![New District Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_District_Summary.PNG)
@@ -24,7 +23,6 @@ After removing Thomas High School ninth grade test scores from the district the 
 ### 2. How is the school summary affected?
 - Old
 <br/>![Old School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_School_Summary.PNG)
-<br/>
 
 - New
 <br/>![New School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_School_Summary.PNG)
