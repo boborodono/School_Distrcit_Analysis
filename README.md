@@ -79,4 +79,10 @@ I have saved you the trouble of trying to determine the difference between two i
 
 ## Summary of School District analysis
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Four changes in the updated school district analysis are:
+
+1. 
+2. 
+3. 
+4. 
+after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
