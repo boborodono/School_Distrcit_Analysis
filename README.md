@@ -40,10 +40,12 @@ The removed test grades did not move the needle on THS's overall performance. As
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Old
 <br/>
-![Thomas High School Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_Top_Schools.PNG)<br/>
+![Thomas High School Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/Old_Top_Schools.PNG)
+<br/>
 - New
 <br/>
-![Thomas High School New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_Top_Schools.PNG)<br/>
+![Thomas High School New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_Top_Schools.PNG)
+<br/>
 <br/>
 - Because of the very small difference in THS's test scores after removing it's ninth grade cohorts' results, Thomas High School's position within the district remains unchanged. You can see the miniscule score changes more clearly in the two images above as we have extended the test score values out to the millionths place.
 <br/>
