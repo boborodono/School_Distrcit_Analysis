@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 An analysis of a local school district's data.
 
@@ -29,7 +29,6 @@ While we believe it was necessary to remove an entire grade's test scores from T
 <br/>
 - New<br/>
 ![New School Summary](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/New_School_Summary.PNG)
-<br/>
 
 <br/>
 The removed test grades did not move the needle on THS's overall performance. As you can see from the two images above... 
@@ -59,21 +58,19 @@ Math and reading scores by grade<br/>
 - Old<br/>
 ![Reading Scores by Grade - Old](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_old.PNG)
 <br/>
-- New<br/>
-![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)<br/>
 
-- The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
+- New<br/>
+![Reading Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_reading_scores_new.PNG)
 <br/>
+- The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
 
 ### Scores by school spending<br/>
 - Old/New<br/>
 ![Scores by school spending](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_spending_summary'.PNG)
-<br/>
 
 ### Scores by school size<br/>
 - Old/New<br/>
 ![Scores by school size](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_size_summary'.PNG)
-<br/>
 
 ### Scores by school type<br/>
 - Old/New<br/>
@@ -82,7 +79,6 @@ Math and reading scores by grade<br/>
 
 - I have saved you the trouble of trying to determine the difference between two identical tables. All of the above images were exactly the same between the two analyses. There was no significant difference between the scores by
 
-<br/>
 ## Summary of School District analysis
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
