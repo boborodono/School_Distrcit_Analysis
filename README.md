@@ -45,10 +45,8 @@ Because of the very small difference in THS's test scores after removing it's ni
 <br/>
 
 ### 4. How does replacing the ninth-grade scores affect the following:
-<br/>
 
 ### ---Math and reading scores by grade---
-<br/>
 
 ### Math<br/>
 - Old
@@ -57,7 +55,6 @@ Because of the very small difference in THS's test scores after removing it's ni
 
 - New
 <br/>![Math Scores by Grade - New](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/THS_math_scores_new.PNG)
-<br/>
 ### Reading<br/>
 
 - Old
@@ -70,17 +67,14 @@ Because of the very small difference in THS's test scores after removing it's ni
 The above images show that the ninth graders' test scores were removed from the datbase and the other grades' scores were unaffected.
 
 ### ---Scores by school spending---
-<br/>
 - Old/New
 <br/>![Scores by school spending](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_spending_summary'.PNG)
 
 ### ---Scores by school size---
-<br/>
 - Old/New
 <br/>![Scores by school size](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_size_summary'.PNG)
 
 ### ---Scores by school type---
-<br/>
 - Old/New
 <br/>![Scores by school type](https://github.com/boborodono/School_District_Analysis/blob/main/Resources/Images/School_scores_type.PNG)
 <br/>
