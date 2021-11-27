@@ -1,3 +1,6 @@
+# Adding practice folder to gitignore
+Practice/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
